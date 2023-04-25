@@ -20,4 +20,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Images
 
-![app](https://user-images.githubusercontent.com/123605060/234415582-210d3e0a-b7f0-462a-9b86-c2ccd4a6b86c.jpg)
+![app](https://user-images.githubusercontent.com/123605060/234416246-28fccd9d-913e-4f95-b281-12c3599b71d9.jpg)
