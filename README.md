@@ -17,3 +17,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## Important Links
 
 [Figma](https://www.figma.com/file/vZHOFnRPBNdAVTrnWaXywL/Untitled?node-id=2%3A63&t=ubjjIiyUbVTQgd9f-1)
+
+## Images
+
+![app](https://user-images.githubusercontent.com/123605060/234415582-210d3e0a-b7f0-462a-9b86-c2ccd4a6b86c.jpg)
