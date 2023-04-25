@@ -1,8 +1,8 @@
 const getCurrentUser = () => {
   return {
     id: 1,
-    email: "mgargano@gmail.com",
-    name: "Mat Gargano",
+    email: "johndoe@gmail.com",
+    name: "John Doe",
     bio: "The quick brown fox.....",
     avatar: "https://placebear.com/200/200",
   };
